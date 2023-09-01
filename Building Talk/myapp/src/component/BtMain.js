@@ -1,11 +1,11 @@
 import React from 'react';
 
-function Header() {
+function BtMain() {
     return (
-        <header className="App-header">
-            <h1>@@@@@@@</h1>
+        <header className="BtMain">
+
         </header>
     );
 }
 
-export default Header;
+export default BtMain;
